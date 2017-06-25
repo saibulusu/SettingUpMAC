@@ -32,3 +32,14 @@ brew install git
 ## Install tree command
 brew install tree
 
+
+## Installing oh my zshell
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+
+## Enable show all hidden files, executed on the terminal
+defaults write com.apple.finder AppleShowAllFiles YES
+
+
+##Installing textmate editor
+brew install caskroom/cask/textmate
