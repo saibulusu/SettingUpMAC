@@ -19,3 +19,24 @@ brew install Caskroom/cask/java
 
 ## Install eclipse
 brew install Caskroom/cask/eclipse-java
+
+
+## Present working directory
+pwd
+
+
+## Create new directory
+mkdir myworkspace
+cd myworkspace
+
+
+## Install visual studio code
+brew install Caskroom/cask/visual-studio-code
+
+
+## Install git
+brew install git
+
+
+## Install tree command
+brew install tree
