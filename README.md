@@ -1,5 +1,6 @@
 # SettingUpMAC
 Setting up MacBook Pro
+Various applications using the terminal
 
 
 In terminal:
