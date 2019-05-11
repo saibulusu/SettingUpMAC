@@ -1,3 +1,5 @@
+(Completed Project)
+
 # SettingUpMAC
 Setting up MacBook Pro
 Various applications using the terminal
@@ -44,5 +46,3 @@ defaults write com.apple.finder AppleShowAllFiles YES
 
 ##Installing textmate editor
 brew install caskroom/cask/textmate
-
-Completed Project
