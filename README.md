@@ -44,3 +44,5 @@ defaults write com.apple.finder AppleShowAllFiles YES
 
 ##Installing textmate editor
 brew install caskroom/cask/textmate
+
+Completed Project
