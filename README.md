@@ -1,5 +1,3 @@
-(Completed Project)
-
 # SettingUpMAC
 Setting up MacBook Pro
 Various applications using the terminal
