@@ -35,3 +35,15 @@ git commit -a
 (enter message)
 
 git push origin master
+
+
+
+
+
+
+
+GIT PULL OVERWRITE LOCAL CHANGES
+
+git fetch --all
+
+git reset --hard origin/master
